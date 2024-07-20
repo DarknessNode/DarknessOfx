@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Sou DarknessOfx, um adolescente apaixonado por tecnologia e desenvolvimento web. Adoro criar sites e aprender novas tecnologias!
+Sou DarknessNode, um adolescente apaixonado por tecnologia e desenvolvimento web. Adoro criar sites e aprender novas tecnologias!
 
 ## Sobre Mim
 
